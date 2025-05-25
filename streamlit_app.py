@@ -4,4 +4,4 @@ st.title("belajar gitar")
 st.write(
     "ayo belajar chord gitar"
 )
-st.image("17481696881341982187676840552939.jpg", width=200)
+st.image("Screenshot_2025-02-20-22-39-14-677_com.ss.android.ugc.trill.jpg", width=200)
